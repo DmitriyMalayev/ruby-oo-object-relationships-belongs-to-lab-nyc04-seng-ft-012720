@@ -5,6 +5,6 @@ class Artist
     @name
     end
 
-    "Beyonce" = Artist.new
+    Beyonce = Artist.new
 
 end
