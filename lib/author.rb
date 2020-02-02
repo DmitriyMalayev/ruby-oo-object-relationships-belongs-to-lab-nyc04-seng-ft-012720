@@ -1,5 +1,5 @@
 class Author
-    attr_accessor :author, :name
+    attr_accessor :name
 
 
     Hillary = Author.new
