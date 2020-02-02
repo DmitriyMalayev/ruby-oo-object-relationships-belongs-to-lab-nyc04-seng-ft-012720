@@ -6,6 +6,6 @@ class Artist
     @artist = artist
     end
 
-    artist_name = Artist.new("song", "artist")
+    artist_name = Artist.new("Beyonce", "artist")
 
 end
