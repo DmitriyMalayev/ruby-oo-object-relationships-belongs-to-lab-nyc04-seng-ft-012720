@@ -1,6 +1,14 @@
 class Post
 attr_accessor :title
 
-post_name = Post.new
+def author(name)
+  @name
+end
+
+def author=(name)
+  @name = name
+end
+
+post_name = Post.new(author)
 
 end
