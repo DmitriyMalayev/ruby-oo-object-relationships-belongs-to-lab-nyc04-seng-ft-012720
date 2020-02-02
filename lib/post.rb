@@ -9,6 +9,6 @@ def author=(name)
   @name = name
 end
 
-"Hillary" = Post.new
+Hillary.title = Post.new("name")
 
 end
